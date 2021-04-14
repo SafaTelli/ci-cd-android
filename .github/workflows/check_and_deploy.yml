@@ -11,4 +11,4 @@ jobs:
 
 
       - name: build project
-        runs:./gradlew assemble
+        runs: ./gradlew assemble
