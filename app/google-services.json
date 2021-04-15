@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314707201983",
+    "project_id": "testcicd-android",
+    "storage_bucket": "testcicd-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314707201983:android:32253e66c6dc0e8318db0a",
+        "android_client_info": {
+          "package_name": "com.pixelstrade.cicd_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314707201983-9hif3mr752kd4a78j6929pt1d0k60pe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGhXyzK_DX5AMIFcf8hn_UcuY3r7zwyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314707201983-9hif3mr752kd4a78j6929pt1d0k60pe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
